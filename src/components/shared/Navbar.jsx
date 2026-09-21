@@ -104,7 +104,7 @@ const Navbar = () => {
 
             {/* Login */}
             <NavLink
-              to="/login"
+              to="/auth/login"
               className="ml-1 hidden items-center gap-2 rounded-full bg-black px-5 py-2.5 text-sm font-medium text-white transition hover:bg-gray-800 sm:flex"
             >
               <User className="h-4 w-4" />
