@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "subtitle": "AUTUMN COLLECTION 2026",
+    "title": "Poetic living through tactile material & honest form.",
+    "description": "Explore a modern assortment of lifestyle goods designed with a focus on simplicity, natural textures, and everyday utility.",
+    "primaryButton": {
+      "text": "Shop New Collection",
+      "link": "/shop"
+    },
+    "secondaryButton": {
+      "text": "Read Editorial",
+      "link": "/editorial"
+    },
+    "image": "/images/hero/hero-1.jpg"
+  },
+  {
+    "id": 2,
+    "subtitle": "NEW ARRIVALS 2026",
+    "title": "Designed for slow mornings and beautiful everyday moments.",
+    "description": "Discover thoughtfully crafted pieces that bring warmth, comfort, and character into your everyday spaces.",
+    "primaryButton": {
+      "text": "Explore New Arrivals",
+      "link": "/new-arrivals"
+    },
+    "secondaryButton": {
+      "text": "Discover More",
+      "link": "/about"
+    },
+    "image": "/images/hero/hero-2.jpg"
+  },
+  {
+    "id": 3,
+    "subtitle": "TIMELESS ESSENTIALS",
+    "title": "Simple objects. Thoughtful details. Timeless living.",
+    "description": "A carefully curated collection of essentials created to complement modern homes and everyday lifestyles.",
+    "primaryButton": {
+      "text": "Shop Essentials",
+      "link": "/shop"
+    },
+    "secondaryButton": {
+      "text": "View Collection",
+      "link": "/collections"
+    },
+    "image": "/images/hero/hero-3.jpg"
+  },
+  {
+    "id": 4,
+    "subtitle": "HOME & LIVING",
+    "title": "Make space for things that feel truly yours.",
+    "description": "Bring personality and warmth to your home with our collection of refined furniture, decor, and lifestyle pieces.",
+    "primaryButton": {
+      "text": "Shop Home",
+      "link": "/category/home"
+    },
+    "secondaryButton": {
+      "text": "Explore Stories",
+      "link": "/stories"
+    },
+    "image": "/images/hero/hero-4.jpg"
+  },
+  {
+    "id": 5,
+    "subtitle": "CRAFTED WITH CARE",
+    "title": "Made slowly, thoughtfully, and with purpose.",
+    "description": "Meet products shaped by skilled hands, honest materials, and a commitment to lasting quality.",
+    "primaryButton": {
+      "text": "Shop Crafted",
+      "link": "/collections/crafted"
+    },
+    "secondaryButton": {
+      "text": "Our Philosophy",
+      "link": "/philosophy"
+    },
+    "image": "/images/hero/hero-5.jpg"
+  },
+  {
+    "id": 6,
+    "subtitle": "MINIMAL LIVING",
+    "title": "Less noise. More meaning. Better living.",
+    "description": "Discover minimalist pieces that balance functionality, natural beauty, and contemporary design.",
+    "primaryButton": {
+      "text": "Explore Minimal",
+      "link": "/collections/minimal"
+    },
+    "secondaryButton": {
+      "text": "Read Journal",
+      "link": "/journal"
+    },
+    "image": "/images/hero/hero-6.jpg"
+  },
+  {
+    "id": 7,
+    "subtitle": "CURATED FOR YOU",
+    "title": "A collection inspired by the way you live.",
+    "description": "From quiet corners to busy mornings, find considered pieces made to fit naturally into your everyday life.",
+    "primaryButton": {
+      "text": "Explore Collection",
+      "link": "/collections"
+    },
+    "secondaryButton": {
+      "text": "View Inspiration",
+      "link": "/inspiration"
+    },
+    "image": "/images/hero/hero-7.jpg"
+  },
+  {
+    "id": 8,
+    "subtitle": "SEASONAL EDIT",
+    "title": "Warm textures for a season of gathering.",
+    "description": "Layer your home and lifestyle with rich textures, soft tones, and timeless pieces made for the season.",
+    "primaryButton": {
+      "text": "Shop Seasonal Edit",
+      "link": "/collections/seasonal"
+    },
+    "secondaryButton": {
+      "text": "See The Edit",
+      "link": "/editorial"
+    },
+    "image": "/images/hero/hero-8.jpg"
+  },
+  {
+    "id": 9,
+    "subtitle": "ZOVIORA SELECTS",
+    "title": "Beautifully selected pieces, made for everyday life.",
+    "description": "Our editors handpick objects that combine thoughtful design, quality materials, and effortless functionality.",
+    "primaryButton": {
+      "text": "Shop Zoviora Selects",
+      "link": "/zoviora-selects"
+    },
+    "secondaryButton": {
+      "text": "Meet The Collection",
+      "link": "/collections"
+    },
+    "image": "/images/hero/hero-9.jpg"
+  },
+  {
+    "id": 10,
+    "subtitle": "THE ZOVIORA JOURNAL",
+    "title": "Stories, spaces, and ideas worth bringing home.",
+    "description": "Step inside our world of thoughtful design, inspiring spaces, creative people, and meaningful everyday rituals.",
+    "primaryButton": {
+      "text": "Explore Journal",
+      "link": "/journal"
+    },
+    "secondaryButton": {
+      "text": "Shop The Story",
+      "link": "/shop"
+    },
+    "image": "/images/hero/hero-10.jpg"
+  }
+]
