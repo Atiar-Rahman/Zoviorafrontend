@@ -37,7 +37,7 @@ const FavoriteProducts = () => {
         {/* Products */}
         <div className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-5">
           {favoriteProducts.map((product) => (
-            <div key={product.id} className="group overflow-hidden bg-white">
+            <div  key={product.id} className="group overflow-hidden bg-white">
               {/* Image */}
               <div className="relative aspect-square overflow-hidden bg-gray-100">
                 <img

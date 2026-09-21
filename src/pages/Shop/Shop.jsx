@@ -517,7 +517,7 @@ const Shop = ({
               </div>
             ) : (
               /* Empty State */
-              <div className="flex min-h-[400px] flex-col items-center justify-center text-center">
+              <div className="flex min-h-100 flex-col items-center justify-center text-center">
                 <div className="mb-4 text-3xl text-gray-300">◌</div>
 
                 <h3 className="text-sm font-medium text-gray-800">
