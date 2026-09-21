@@ -1,3 +1,5 @@
+import PhilosophySection from "../../components/Home/PhilosophySection";
+import Subcribed from "../../components/Home/Subcribed";
 import SectionTitle from "../../components/shared/SectionTitle";
 import Banner from "./Banner";
 import CategoryCollection from "./CategoryCollection";
@@ -11,7 +13,8 @@ const Home = () => {
             <CategoryCollection/>
             <SectionTitle heading={"created feavorites"} subheading={"Trading new arrivals"}/>
             <FavoriteProducts/>
-            <h1>this</h1>
+            <PhilosophySection/>
+            <Subcribed/>
         </div>
     );
 };
