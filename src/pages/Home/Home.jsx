@@ -11,7 +11,7 @@ const Home = () => {
         <div>
             <Banner/>
             <CategoryCollection/>
-            <SectionTitle heading={"created feavorites"} subheading={"Trading new arrivals"}/>
+            {/*<SectionTitle heading={"created feavorites"} subheading={"Trading new arrivals"}/>*/}
             <FavoriteProducts/>
             <PhilosophySection/>
             <Subcribed/>
