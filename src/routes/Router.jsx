@@ -12,6 +12,8 @@ import Login from "../pages/Login/Login.jsx";
 import Register from "../pages/Register/Register.jsx";
 import Shop from "../pages/Shop/Shop.jsx";
 import ProductDetails from "../pages/Shop/ProductDetails.jsx";
+import DashBoard from "../pages/Dashboard/DashBoard.jsx";
+import DashBoardLayout from "../layout/DashBoardLayout.jsx";
 
 
 const router = createBrowserRouter([
@@ -68,6 +70,18 @@ const router = createBrowserRouter([
                 element: <Register/>
             }
         ]
+    },
+    {
+        path:'dashboard/admin/',
+        element:<DashBoardLayout/>,
+        errorElement:<NotFound/>,
+        children:[
+            {
+                index:true,
+                element:<DashBoard/>
+            }
+        ]
+
     }
 ]);
 
