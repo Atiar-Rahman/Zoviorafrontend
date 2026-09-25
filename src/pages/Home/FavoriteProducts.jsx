@@ -1,4 +1,6 @@
+import { Link2 } from "lucide-react";
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 const FavoriteProducts = () => {
   const [products, setProducts] = useState([]);
@@ -33,7 +35,6 @@ const FavoriteProducts = () => {
   return (
     <section className="py-16">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-       
         {/* Products */}
         <div className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-5">
           {favoriteProducts.map((product) => (
@@ -102,9 +103,12 @@ const FavoriteProducts = () => {
 
         {/* View All */}
         <div className="mt-10 text-center">
-          <button className="border border-black px-7 py-3 text-xs font-medium uppercase tracking-wider transition hover:bg-black hover:text-white">
-            View All Products
-          </button>
+          <Link to={'/shop'} className="flex justify-center items-center">
+            <button className="border border-black px-7 py-3 text-xs font-medium uppercase tracking-wider transition hover:bg-black hover:text-white flex justify-center items-center gap-4">
+              <Link2 />
+              View All Products
+            </button>
+          </Link>
         </div>
       </div>
     </section>

@@ -18,11 +18,11 @@
     "shortDescription": "A timeless oak lounge chair with a comfortable upholstered seat.",
     "description": "Crafted from premium oak wood with a soft upholstered seat, this lounge chair brings warmth and timeless elegance to modern interiors.",
     "images": [
-      "/images/products/furniture/oak-lounge-chair-1.jpg",
-      "/images/products/furniture/oak-lounge-chair-2.jpg",
-      "/images/products/furniture/oak-lounge-chair-3.jpg"
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/furniture/oak-lounge-chair-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Natural Oak", "Walnut"],
     "sizes": ["Standard"],
     "material": "Oak Wood & Fabric",
@@ -50,10 +50,10 @@
     "shortDescription": "Elegant three-seat sofa designed for contemporary living spaces.",
     "description": "A spacious and comfortable sofa featuring clean lines, premium upholstery and a durable hardwood frame.",
     "images": [
-      "/images/products/furniture/accent-sofa-1.jpg",
-      "/images/products/furniture/accent-sofa-2.jpg"
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/furniture/accent-sofa-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Beige", "Gray", "Charcoal"],
     "sizes": ["3 Seater"],
     "material": "Fabric & Hardwood",
@@ -81,10 +81,10 @@
     "shortDescription": "Minimal wooden coffee table with a clean contemporary silhouette.",
     "description": "Designed for modern homes, this coffee table combines solid wood construction with a simple and functional form.",
     "images": [
-      "/images/products/furniture/coffee-table-1.jpg",
-      "/images/products/furniture/coffee-table-2.jpg"
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/furniture/coffee-table-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Oak", "Walnut"],
     "sizes": ["90cm", "120cm"],
     "material": "Solid Wood",
@@ -112,10 +112,10 @@
     "shortDescription": "Elegant Scandinavian-inspired dining chair.",
     "description": "A lightweight and comfortable dining chair inspired by Scandinavian design principles.",
     "images": [
-      "/images/products/furniture/dining-chair-1.jpg",
-      "/images/products/furniture/dining-chair-2.jpg"
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/furniture/dining-chair-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
     "colors": ["White", "Black", "Natural"],
     "sizes": ["Standard"],
     "material": "Wood & PU Leather",
@@ -143,10 +143,10 @@
     "shortDescription": "Compact walnut bedside table with storage drawer.",
     "description": "A beautifully finished bedside table with a practical drawer and minimalist silhouette.",
     "images": [
-      "/images/products/furniture/bedside-table-1.jpg",
-      "/images/products/furniture/bedside-table-2.jpg"
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/furniture/bedside-table-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Walnut"],
     "sizes": ["45cm"],
     "material": "Walnut Wood",
@@ -174,10 +174,10 @@
     "shortDescription": "Open wooden bookshelf for modern interiors.",
     "description": "A versatile open bookshelf suitable for books, plants, decor and everyday essentials.",
     "images": [
-      "/images/products/furniture/bookshelf-1.jpg",
-      "/images/products/furniture/bookshelf-2.jpg"
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/furniture/bookshelf-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Oak", "Black"],
     "sizes": ["5 Tier"],
     "material": "Engineered Wood",
@@ -205,10 +205,10 @@
     "shortDescription": "Elegant writing desk for work and study.",
     "description": "A spacious writing desk featuring a refined wooden finish and practical storage.",
     "images": [
-      "/images/products/furniture/writing-desk-1.jpg",
-      "/images/products/furniture/writing-desk-2.jpg"
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/furniture/writing-desk-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Walnut", "Oak"],
     "sizes": ["120cm"],
     "material": "Solid Wood",
@@ -236,10 +236,10 @@
     "shortDescription": "Round dining table designed for intimate gatherings.",
     "description": "A beautifully crafted round dining table that brings people together around a warm natural surface.",
     "images": [
-      "/images/products/furniture/round-table-1.jpg",
-      "/images/products/furniture/round-table-2.jpg"
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/furniture/round-table-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Natural", "Walnut"],
     "sizes": ["4 Seater"],
     "material": "Oak Wood",
@@ -267,10 +267,10 @@
     "shortDescription": "Soft upholstered bench for bedroom and living spaces.",
     "description": "A versatile upholstered bench with a sturdy wooden frame and soft comfortable seating.",
     "images": [
-      "/images/products/furniture/lounge-bench-1.jpg",
-      "/images/products/furniture/lounge-bench-2.jpg"
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/furniture/lounge-bench-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Beige", "Cream"],
     "sizes": ["120cm"],
     "material": "Fabric & Wood",
@@ -298,10 +298,10 @@
     "shortDescription": "Minimal TV console with spacious storage.",
     "description": "A modern TV console designed to organize entertainment devices while keeping your living room clean and stylish.",
     "images": [
-      "/images/products/furniture/tv-console-1.jpg",
-      "/images/products/furniture/tv-console-2.jpg"
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/furniture/tv-console-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Walnut", "Black"],
     "sizes": ["160cm"],
     "material": "Engineered Wood",
@@ -330,10 +330,10 @@
     "shortDescription": "Hand-finished ceramic vase for elegant interiors.",
     "description": "A beautifully shaped ceramic vase that adds a subtle artistic touch to tables and shelves.",
     "images": [
-      "/images/products/home-decor/ceramic-vase-1.jpg",
-      "/images/products/home-decor/ceramic-vase-2.jpg"
+      "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/home-decor/ceramic-vase-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
     "colors": ["White", "Sand"],
     "sizes": ["Small", "Medium"],
     "material": "Ceramic",
@@ -361,10 +361,10 @@
     "shortDescription": "Contemporary abstract artwork for modern walls.",
     "description": "A minimal abstract artwork designed to complement neutral and contemporary interiors.",
     "images": [
-      "/images/products/home-decor/wall-art-1.jpg",
-      "/images/products/home-decor/wall-art-2.jpg"
+      "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/home-decor/wall-art-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Neutral"],
     "sizes": ["40x60cm", "60x90cm"],
     "material": "Canvas",
@@ -392,10 +392,10 @@
     "shortDescription": "Elegant round mirror with a minimalist frame.",
     "description": "A decorative mirror designed to add depth, light and elegance to your interior.",
     "images": [
-      "/images/products/home-decor/mirror-1.jpg",
-      "/images/products/home-decor/mirror-2.jpg"
+      "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/home-decor/mirror-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Gold"],
     "sizes": ["60cm", "80cm"],
     "material": "Glass & Metal",
@@ -423,10 +423,10 @@
     "shortDescription": "Soft textured rug for cozy living spaces.",
     "description": "A comfortable and stylish rug designed to add warmth and texture to your home.",
     "images": [
-      "/images/products/home-decor/area-rug-1.jpg",
-      "/images/products/home-decor/area-rug-2.jpg"
+      "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/home-decor/area-rug-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Cream", "Beige", "Gray"],
     "sizes": ["5x7ft", "6x9ft"],
     "material": "Cotton Blend",
@@ -454,10 +454,10 @@
     "shortDescription": "Minimal metal candle holder for warm interiors.",
     "description": "A refined candle holder that creates a warm and sophisticated atmosphere.",
     "images": [
-      "/images/products/home-decor/candle-holder-1.jpg",
-      "/images/products/home-decor/candle-holder-2.jpg"
+      "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/home-decor/candle-holder-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Gold"],
     "sizes": ["Small"],
     "material": "Metal",
@@ -485,10 +485,10 @@
     "shortDescription": "Natural wooden photo frame for memorable moments.",
     "description": "A simple wooden frame that brings a warm natural feel to your favorite photographs.",
     "images": [
-      "/images/products/home-decor/photo-frame-1.jpg",
-      "/images/products/home-decor/photo-frame-2.jpg"
+      "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/home-decor/photo-frame-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Natural", "Walnut"],
     "sizes": ["5x7", "8x10"],
     "material": "Wood",
@@ -516,10 +516,10 @@
     "shortDescription": "Handcrafted ceramic bowl for decorative use.",
     "description": "A sculptural ceramic bowl that works beautifully on dining tables and console tables.",
     "images": [
-      "/images/products/home-decor/ceramic-bowl-1.jpg",
-      "/images/products/home-decor/ceramic-bowl-2.jpg"
+      "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/home-decor/ceramic-bowl-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
     "colors": ["White", "Sand"],
     "sizes": ["Medium"],
     "material": "Ceramic",
@@ -547,10 +547,10 @@
     "shortDescription": "Minimal wall clock with a clean modern face.",
     "description": "A contemporary wall clock designed for homes that appreciate understated details.",
     "images": [
-      "/images/products/home-decor/wall-clock-1.jpg",
-      "/images/products/home-decor/wall-clock-2.jpg"
+      "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/home-decor/wall-clock-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "White"],
     "sizes": ["30cm"],
     "material": "Metal & Glass",
@@ -578,10 +578,10 @@
     "shortDescription": "Soft textured cushion cover for modern sofas.",
     "description": "Add comfort and subtle texture to your living room with this premium cushion cover.",
     "images": [
-      "/images/products/home-decor/cushion-cover-1.jpg",
-      "/images/products/home-decor/cushion-cover-2.jpg"
+      "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/home-decor/cushion-cover-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Cream", "Beige", "Brown"],
     "sizes": ["18x18in"],
     "material": "Cotton",
@@ -609,10 +609,10 @@
     "shortDescription": "Natural stone tray for elegant tabletop styling.",
     "description": "A handcrafted stone tray suitable for candles, perfumes, jewelry and decorative objects.",
     "images": [
-      "/images/products/home-decor/stone-tray-1.jpg",
-      "/images/products/home-decor/stone-tray-2.jpg"
+      "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/home-decor/stone-tray-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Natural"],
     "sizes": ["Medium"],
     "material": "Natural Stone",
@@ -641,10 +641,10 @@
     "shortDescription": "Modern pendant light with a warm ambient glow.",
     "description": "A statement pendant light designed to create a warm and inviting atmosphere.",
     "images": [
-      "/images/products/lighting/pendant-light-1.jpg",
-      "/images/products/lighting/pendant-light-2.jpg"
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lighting/pendant-light-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Brass"],
     "sizes": ["Standard"],
     "material": "Metal & Glass",
@@ -672,10 +672,10 @@
     "shortDescription": "Elegant ceramic table lamp with fabric shade.",
     "description": "A soft and elegant table lamp designed for bedrooms, side tables and reading corners.",
     "images": [
-      "/images/products/lighting/table-lamp-1.jpg",
-      "/images/products/lighting/table-lamp-2.jpg"
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lighting/table-lamp-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
     "colors": ["White", "Beige"],
     "sizes": ["Standard"],
     "material": "Ceramic & Fabric",
@@ -703,10 +703,10 @@
     "shortDescription": "Slim floor lamp for modern living spaces.",
     "description": "A minimal floor lamp with a slim silhouette that provides soft ambient lighting.",
     "images": [
-      "/images/products/lighting/floor-lamp-1.jpg",
-      "/images/products/lighting/floor-lamp-2.jpg"
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lighting/floor-lamp-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "White"],
     "sizes": ["160cm"],
     "material": "Metal",
@@ -734,10 +734,10 @@
     "shortDescription": "Compact wall sconce for warm accent lighting.",
     "description": "A stylish wall light perfect for hallways, bedrooms and cozy reading spaces.",
     "images": [
-      "/images/products/lighting/wall-sconce-1.jpg",
-      "/images/products/lighting/wall-sconce-2.jpg"
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lighting/wall-sconce-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Brass"],
     "sizes": ["Standard"],
     "material": "Metal",
@@ -765,10 +765,10 @@
     "shortDescription": "Elegant glass globe lamp with soft illumination.",
     "description": "A refined glass lamp that combines soft light with a timeless contemporary form.",
     "images": [
-      "/images/products/lighting/globe-lamp-1.jpg",
-      "/images/products/lighting/globe-lamp-2.jpg"
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lighting/globe-lamp-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Clear", "Smoke"],
     "sizes": ["Standard"],
     "material": "Glass & Metal",
@@ -796,10 +796,10 @@
     "shortDescription": "Warm wooden desk lamp for workspaces.",
     "description": "A compact desk lamp combining natural wood and warm lighting for focused work.",
     "images": [
-      "/images/products/lighting/desk-lamp-1.jpg",
-      "/images/products/lighting/desk-lamp-2.jpg"
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lighting/desk-lamp-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Natural", "Walnut"],
     "sizes": ["Standard"],
     "material": "Wood & Metal",
@@ -827,10 +827,10 @@
     "shortDescription": "Natural rattan pendant lamp with organic texture.",
     "description": "Handwoven rattan creates beautiful shadows and a warm natural atmosphere.",
     "images": [
-      "/images/products/lighting/rattan-lamp-1.jpg",
-      "/images/products/lighting/rattan-lamp-2.jpg"
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lighting/rattan-lamp-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Natural"],
     "sizes": ["Medium"],
     "material": "Rattan",
@@ -858,10 +858,10 @@
     "shortDescription": "Compact bedside lamp for comfortable reading.",
     "description": "A functional bedside lamp with soft light and a compact footprint.",
     "images": [
-      "/images/products/lighting/reading-lamp-1.jpg",
-      "/images/products/lighting/reading-lamp-2.jpg"
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lighting/reading-lamp-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "White"],
     "sizes": ["Standard"],
     "material": "Metal & Fabric",
@@ -889,10 +889,10 @@
     "shortDescription": "Contemporary linear ceiling light for dining spaces.",
     "description": "A sleek linear light designed to provide balanced illumination over dining tables and kitchen islands.",
     "images": [
-      "/images/products/lighting/linear-light-1.jpg",
-      "/images/products/lighting/linear-light-2.jpg"
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lighting/linear-light-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Gold"],
     "sizes": ["120cm"],
     "material": "Aluminium & Glass",
@@ -920,10 +920,10 @@
     "shortDescription": "Portable rechargeable lamp for ambient lighting.",
     "description": "A compact rechargeable lamp designed to move easily from room to room.",
     "images": [
-      "/images/products/lighting/portable-lamp-1.jpg",
-      "/images/products/lighting/portable-lamp-2.jpg"
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lighting/portable-lamp-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "White", "Beige"],
     "sizes": ["Small"],
     "material": "Aluminium",
@@ -952,10 +952,10 @@
     "shortDescription": "Minimal ceramic mug for everyday coffee and tea.",
     "description": "A beautifully finished ceramic mug designed for comfortable everyday use.",
     "images": [
-      "/images/products/lifestyle/ceramic-mug-1.jpg",
-      "/images/products/lifestyle/ceramic-mug-2.jpg"
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lifestyle/ceramic-mug-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
     "colors": ["White", "Black", "Sand"],
     "sizes": ["350ml"],
     "material": "Ceramic",
@@ -983,10 +983,10 @@
     "shortDescription": "Double-wall insulated bottle for everyday hydration.",
     "description": "A durable insulated bottle that keeps beverages hot or cold for hours.",
     "images": [
-      "/images/products/lifestyle/water-bottle-1.jpg",
-      "/images/products/lifestyle/water-bottle-2.jpg"
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lifestyle/water-bottle-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "White", "Olive"],
     "sizes": ["500ml", "750ml"],
     "material": "Stainless Steel",
@@ -1014,10 +1014,10 @@
     "shortDescription": "Durable canvas tote for everyday essentials.",
     "description": "A spacious reusable canvas tote designed for shopping, work and everyday activities.",
     "images": [
-      "/images/products/lifestyle/canvas-tote-1.jpg",
-      "/images/products/lifestyle/canvas-tote-2.jpg"
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lifestyle/canvas-tote-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Natural", "Black"],
     "sizes": ["Standard"],
     "material": "Cotton Canvas",
@@ -1045,10 +1045,10 @@
     "shortDescription": "Premium notebook with a soft leather cover.",
     "description": "A refined notebook for journaling, planning and everyday notes.",
     "images": [
-      "/images/products/lifestyle/leather-notebook-1.jpg",
-      "/images/products/lifestyle/leather-notebook-2.jpg"
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lifestyle/leather-notebook-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Brown", "Black"],
     "sizes": ["A5"],
     "material": "Leather & Paper",
@@ -1076,10 +1076,10 @@
     "shortDescription": "Compact pouch for travel essentials.",
     "description": "A lightweight pouch designed to organize cables, cosmetics and everyday travel accessories.",
     "images": [
-      "/images/products/lifestyle/travel-pouch-1.jpg",
-      "/images/products/lifestyle/travel-pouch-2.jpg"
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lifestyle/travel-pouch-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Beige", "Olive"],
     "sizes": ["Medium"],
     "material": "Canvas",
@@ -1107,10 +1107,10 @@
     "shortDescription": "Minimal organizer for a clean workspace.",
     "description": "Keep pens, notes and everyday desk essentials organized with this compact desk accessory.",
     "images": [
-      "/images/products/lifestyle/desk-organizer-1.jpg",
-      "/images/products/lifestyle/desk-organizer-2.jpg"
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lifestyle/desk-organizer-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Natural"],
     "sizes": ["Standard"],
     "material": "Wood",
@@ -1138,10 +1138,10 @@
     "shortDescription": "Functional backpack for work and travel.",
     "description": "A spacious everyday backpack with multiple compartments for work and travel essentials.",
     "images": [
-      "/images/products/lifestyle/backpack-1.jpg",
-      "/images/products/lifestyle/backpack-2.jpg"
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lifestyle/backpack-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Olive"],
     "sizes": ["20L"],
     "material": "Water Resistant Canvas",
@@ -1169,10 +1169,10 @@
     "shortDescription": "Minimal aroma diffuser for a relaxing atmosphere.",
     "description": "Create a calm environment with this elegant and compact aroma diffuser.",
     "images": [
-      "/images/products/lifestyle/aroma-diffuser-1.jpg",
-      "/images/products/lifestyle/aroma-diffuser-2.jpg"
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lifestyle/aroma-diffuser-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
     "colors": ["White", "Wood"],
     "sizes": ["Standard"],
     "material": "ABS & Wood",
@@ -1200,10 +1200,10 @@
     "shortDescription": "Premium journal set for thoughtful writing.",
     "description": "A beautifully packaged journal set for planning, reflection and creative writing.",
     "images": [
-      "/images/products/lifestyle/journal-set-1.jpg",
-      "/images/products/lifestyle/journal-set-2.jpg"
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lifestyle/journal-set-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Brown", "Black"],
     "sizes": ["A5"],
     "material": "Paper & Leather",
@@ -1231,10 +1231,10 @@
     "shortDescription": "Reusable insulated tumbler for coffee on the go.",
     "description": "A stylish insulated tumbler designed for commuters and everyday coffee lovers.",
     "images": [
-      "/images/products/lifestyle/coffee-tumbler-1.jpg",
-      "/images/products/lifestyle/coffee-tumbler-2.jpg"
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/lifestyle/coffee-tumbler-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Cream", "Green"],
     "sizes": ["350ml"],
     "material": "Stainless Steel",
@@ -1263,10 +1263,10 @@
     "shortDescription": "Slim genuine leather wallet for everyday use.",
     "description": "A classic leather wallet with a slim profile and practical card storage.",
     "images": [
-      "/images/products/accessories/leather-wallet-1.jpg",
-      "/images/products/accessories/leather-wallet-2.jpg"
+      "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/accessories/leather-wallet-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Brown"],
     "sizes": ["Standard"],
     "material": "Genuine Leather",
@@ -1294,10 +1294,10 @@
     "shortDescription": "Classic leather belt with a minimal metal buckle.",
     "description": "A versatile leather belt designed to complement both casual and formal outfits.",
     "images": [
-      "/images/products/accessories/leather-belt-1.jpg",
-      "/images/products/accessories/leather-belt-2.jpg"
+      "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/accessories/leather-belt-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Brown"],
     "sizes": ["30", "32", "34", "36", "38"],
     "material": "Leather",
@@ -1325,10 +1325,10 @@
     "shortDescription": "Timeless sunglasses with UV protection.",
     "description": "A versatile pair of sunglasses featuring a classic frame and UV protection.",
     "images": [
-      "/images/products/accessories/sunglasses-1.jpg",
-      "/images/products/accessories/sunglasses-2.jpg"
+      "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/accessories/sunglasses-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Tortoise"],
     "sizes": ["One Size"],
     "material": "Acetate",
@@ -1356,10 +1356,10 @@
     "shortDescription": "Minimal wrist watch with a refined modern dial.",
     "description": "A sophisticated everyday watch designed with a clean dial and comfortable strap.",
     "images": [
-      "/images/products/accessories/wrist-watch-1.jpg",
-      "/images/products/accessories/wrist-watch-2.jpg"
+      "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/accessories/wrist-watch-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Brown", "Silver"],
     "sizes": ["One Size"],
     "material": "Stainless Steel & Leather",
@@ -1387,10 +1387,10 @@
     "shortDescription": "Classic canvas cap for everyday styling.",
     "description": "A lightweight everyday cap made from durable cotton canvas.",
     "images": [
-      "/images/products/accessories/canvas-cap-1.jpg",
-      "/images/products/accessories/canvas-cap-2.jpg"
+      "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/accessories/canvas-cap-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Beige", "Olive"],
     "sizes": ["Adjustable"],
     "material": "Cotton Canvas",
@@ -1418,10 +1418,10 @@
     "shortDescription": "Slim leather card holder for everyday carry.",
     "description": "A compact card holder designed for minimalist everyday carry.",
     "images": [
-      "/images/products/accessories/card-holder-1.jpg",
-      "/images/products/accessories/card-holder-2.jpg"
+      "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/accessories/card-holder-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Brown"],
     "sizes": ["Standard"],
     "material": "Genuine Leather",
@@ -1449,10 +1449,10 @@
     "shortDescription": "Compact crossbody bag for everyday essentials.",
     "description": "A lightweight crossbody bag with enough space for your daily essentials.",
     "images": [
-      "/images/products/accessories/crossbody-bag-1.jpg",
-      "/images/products/accessories/crossbody-bag-2.jpg"
+      "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/accessories/crossbody-bag-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Brown", "Cream"],
     "sizes": ["Small"],
     "material": "PU Leather",
@@ -1480,10 +1480,10 @@
     "shortDescription": "Minimal metal bracelet for everyday styling.",
     "description": "A refined bracelet designed to add a subtle finishing touch to any outfit.",
     "images": [
-      "/images/products/accessories/metal-bracelet-1.jpg",
-      "/images/products/accessories/metal-bracelet-2.jpg"
+      "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/accessories/metal-bracelet-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Silver", "Black"],
     "sizes": ["Adjustable"],
     "material": "Stainless Steel",
@@ -1511,10 +1511,10 @@
     "shortDescription": "Compact leather key holder for everyday carry.",
     "description": "A simple and durable leather key holder designed to keep keys organized.",
     "images": [
-      "/images/products/accessories/key-holder-1.jpg",
-      "/images/products/accessories/key-holder-2.jpg"
+      "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/accessories/key-holder-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Brown"],
     "sizes": ["Standard"],
     "material": "Leather",
@@ -1542,10 +1542,10 @@
     "shortDescription": "Protective hard case for sunglasses and eyewear.",
     "description": "A compact protective case designed to keep your sunglasses safe while traveling.",
     "images": [
-      "/images/products/accessories/sunglasses-case-1.jpg",
-      "/images/products/accessories/sunglasses-case-2.jpg"
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80"
     ],
-    "thumbnail": "/images/products/accessories/sunglasses-case-1.jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1523779917675-b6ed3a42a561?auto=format&fit=crop&w=1200&q=80",
     "colors": ["Black", "Brown"],
     "sizes": ["Standard"],
     "material": "PU Leather",
