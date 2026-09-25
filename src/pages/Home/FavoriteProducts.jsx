@@ -38,72 +38,74 @@ const FavoriteProducts = () => {
         {/* Products */}
         <div className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-5">
           {favoriteProducts.map((product) => (
-            <div key={product.id} className="group overflow-hidden bg-white">
-              {/* Image */}
-              <div className="relative aspect-square overflow-hidden bg-gray-100">
-                <img
-                  src={product.thumbnail}
-                  alt={product.name}
-                  className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
-                />
+            <Link to={`/shop/${product.id}`}>
+              <div key={product.id} className="group overflow-hidden bg-white">
+                {/* Image */}
+                <div className="relative aspect-square overflow-hidden bg-gray-100">
+                  <img
+                    src={product.thumbnail}
+                    alt={product.name}
+                    className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
+                  />
 
-                {/* Discount */}
-                {product.discountPercentage > 0 && (
-                  <span className="absolute left-3 top-3 bg-black px-2 py-1 text-[10px] font-medium text-white">
-                    -{product.discountPercentage}%
-                  </span>
-                )}
+                  {/* Discount */}
+                  {product.discountPercentage > 0 && (
+                    <span className="absolute left-3 top-3 bg-black px-2 py-1 text-[10px] font-medium text-white">
+                      -{product.discountPercentage}%
+                    </span>
+                  )}
 
-                {/* Wishlist */}
-                <button
-                  className="absolute right-3 top-3 flex h-9 w-9 items-center justify-center rounded-full bg-white/90 text-gray-700 shadow-sm transition hover:bg-black hover:text-white"
-                  aria-label="Add to wishlist"
-                >
-                  ♡
-                </button>
-              </div>
-
-              {/* Product Info */}
-              <div className="pt-4">
-                <p className="mb-1 text-[10px] uppercase tracking-[0.2em] text-gray-400">
-                  {product.category}
-                </p>
-
-                <h3 className="line-clamp-1 text-sm font-medium text-gray-900">
-                  {product.name}
-                </h3>
-
-                {/* Rating */}
-                <div className="mt-2 flex items-center gap-1">
-                  <span className="text-xs text-yellow-500">★</span>
-
-                  <span className="text-xs text-gray-500">
-                    {product.rating}
-                  </span>
-
-                  <span className="text-xs text-gray-400">
-                    ({product.reviewCount})
-                  </span>
+                  {/* Wishlist */}
+                  <button
+                    className="absolute right-3 top-3 flex h-9 w-9 items-center justify-center rounded-full bg-white/90 text-gray-700 shadow-sm transition hover:bg-black hover:text-white"
+                    aria-label="Add to wishlist"
+                  >
+                    ♡
+                  </button>
                 </div>
 
-                {/* Price */}
-                <div className="mt-2 flex items-center gap-2">
-                  <span className="text-sm font-semibold text-gray-900">
-                    ৳{product.discountPrice.toLocaleString()}
-                  </span>
+                {/* Product Info */}
+                <div className="pt-4">
+                  <p className="mb-1 text-[10px] uppercase tracking-[0.2em] text-gray-400">
+                    {product.category}
+                  </p>
 
-                  <span className="text-xs text-gray-400 line-through">
-                    ৳{product.price.toLocaleString()}
-                  </span>
+                  <h3 className="line-clamp-1 text-sm font-medium text-gray-900">
+                    {product.name}
+                  </h3>
+
+                  {/* Rating */}
+                  <div className="mt-2 flex items-center gap-1">
+                    <span className="text-xs text-yellow-500">★</span>
+
+                    <span className="text-xs text-gray-500">
+                      {product.rating}
+                    </span>
+
+                    <span className="text-xs text-gray-400">
+                      ({product.reviewCount})
+                    </span>
+                  </div>
+
+                  {/* Price */}
+                  <div className="mt-2 flex items-center gap-2">
+                    <span className="text-sm font-semibold text-gray-900">
+                      ৳{product.discountPrice.toLocaleString()}
+                    </span>
+
+                    <span className="text-xs text-gray-400 line-through">
+                      ৳{product.price.toLocaleString()}
+                    </span>
+                  </div>
                 </div>
               </div>
-            </div>
+            </Link>
           ))}
         </div>
 
         {/* View All */}
         <div className="mt-10 text-center">
-          <Link to={'/shop'} className="flex justify-center items-center">
+          <Link to={"/shop"} className="flex justify-center items-center">
             <button className="border border-black px-7 py-3 text-xs font-medium uppercase tracking-wider transition hover:bg-black hover:text-white flex justify-center items-center gap-4">
               <Link2 />
               View All Products

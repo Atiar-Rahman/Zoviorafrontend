@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
+import Loading from "../../components/shop/Loading";
+import ProductNotFound from "../../components/shop/ProductNotFound";
 
 const ProductDetails = () => {
   const { id } = useParams();
@@ -47,44 +49,14 @@ const ProductDetails = () => {
   // Loading
   if (loading) {
     return (
-      <div className="min-h-screen bg-[#fcfbf9] px-4 py-20">
-        <div className="mx-auto max-w-7xl animate-pulse">
-          <div className="grid gap-10 md:grid-cols-2">
-            <div className="aspect-square bg-gray-200" />
-
-            <div className="space-y-5 py-8">
-              <div className="h-3 w-24 bg-gray-200" />
-              <div className="h-8 w-3/4 bg-gray-200" />
-              <div className="h-5 w-32 bg-gray-200" />
-              <div className="h-20 w-full bg-gray-200" />
-            </div>
-          </div>
-        </div>
-      </div>
+      <Loading/>
     );
   }
 
   // Product not found
   if (!product) {
     return (
-      <div className="flex min-h-[70vh] items-center justify-center bg-[#fcfbf9] px-4">
-        <div className="text-center">
-          <p className="text-xs uppercase tracking-[0.2em] text-gray-400">
-            Product Not Found
-          </p>
-
-          <h1 className="mt-3 text-2xl font-medium text-gray-900">
-            We couldn't find this product.
-          </h1>
-
-          <Link
-            to="/shop"
-            className="mt-6 inline-flex bg-black px-6 py-3 text-xs font-medium uppercase tracking-wider text-white transition hover:bg-[#b85b32]"
-          >
-            Back to Shop
-          </Link>
-        </div>
-      </div>
+      <ProductNotFound/>
     );
   }
 
@@ -278,7 +250,7 @@ const ProductDetails = () => {
                   onClick={decreaseQuantity}
                   className="flex h-full w-10 items-center justify-center text-gray-500 transition hover:bg-gray-100"
                 >
-                  −
+                  -
                 </button>
 
                 <span className="flex flex-1 items-center justify-center text-xs font-medium">
